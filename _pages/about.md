@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
+title: "个人简介"
+author_profile:  赵尔平，男，教授，硕士生导师。2006年4月毕业于西安电子科技大学，同年入职西藏民族大学信息工程学院工作，2016年获中组部西部之光访问学者资助在中国人民大学访学。现任全国研究生教育评估监测专家库专家；学术桥专家库专家；中国计算机学会（CCF）杰出会员、信息系统专委会执行委员；CAAI的社会计算与社会智能专委会委员。荣获2024年”数据要素×”大赛西藏自治区分赛奖，西藏自治区教学成果奖、咸阳市自然科学优秀论文奖等荣誉。
+    主要开展知识图谱、大模型、智能问答与推荐、深度学习方向研究。主持完成国家自然科学基金、西藏自治区重点研发计划项目个1项，参与完成国家、省部级项目多项，发表论文40余篇。
+---
+redirect_from: https://xueshu.baidu.com/homepage/erpingzhao 
   - /about/
   - /about.html
----
+  - 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
